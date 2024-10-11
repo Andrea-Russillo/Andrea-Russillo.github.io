@@ -1,0 +1,44 @@
+        body {
+         background-color: black;
+        }
+		 
+        h1{
+         text-align: center; 
+         font-size: 40;
+         color: white;
+        }
+		 
+        h2 {
+		 margin-left: 20px;
+         font-size: 30;
+         color: white;
+        }
+		 
+        .pmargin {
+         color: white;
+         font-size: 22;
+        }
+        .andrea {
+         width: 20%;
+         heigth: auto;
+         border-radius: 50%;
+         margin-top: 20px;
+        }
+		 
+        li {
+         font-size: 22;
+        }
+		 
+        .logoIG{
+         margin-top: 20px;
+         width: 4%;
+         heigth: auto;
+         border-radius: 50%;
+        }
+		 
+        .logoGithub{
+         margin-top: 20px;
+         width: 4%;
+         heigth: auto;
+         border-radius: 50%;
+        }
